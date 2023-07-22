@@ -3,6 +3,7 @@ credit card fraud detection using jupiterlab by python 3
 
 
 
+the link of the video for the explanatiom in linkedin :
 
 
 
